@@ -108,8 +108,8 @@ Currently exploring:
 I'm always interested in discussing architecture challenges, collaborations, or interesting tech topics.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/uya-o-a98a40104/)
-- 🐦 [Twitter](#)
-- 🌐 [Portfolio](#)
+- 🐦 [Twitter](https://x.com/uyaokonuya)
+- 🌐 [Portfolio](https://drive.google.com/drive/folders/1lHaIVzlVFVfeiQunv5HtNMQ4WIybE2KJ)
 - 📧 [Email](uyaokonuya@gmail.com)
 
 ---
