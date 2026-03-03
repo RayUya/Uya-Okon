@@ -15,17 +15,16 @@ My journey has taken me through diverse technologies and paradigms, but my core 
 - 🤖 Passionate about AI integration and intelligent automation
 - 🎨 Design-first approach to development — great UX is non-negotiable
 - 📦 Built and maintained packages used by developers worldwide
-- 🔍 Advocate for code quality, testing, and robust CI/CD pipelines
-- 🌍 Based in Nigeria · Open to remote opportunities globally
+- 🌍 Based in United Kingdom · Open to remote opportunities globally
 
 ---
 
 ## 🗺️ My Journey
 
-🌐 **Started in Web** → Building with HTML, CSS, JavaScript, React
+🎓 **Became a Graphic Designer** → Maximizing CorelDraw, Figma, Canva, Photoshop
+🌐 **Started in App** → Building with HTML, Java, XML
 🤖 **Discovered AI/ML** → Exploring intelligent agents and machine learning
 🏗️ **Went Deep on Architecture** → Clean Code, Design Patterns, Scalable Systems
-🎓 **Became a Teacher** → Sharing knowledge through open-source and technical content
 🌱 **Now Expanding** → Full-stack development, AI engineering, emerging technologies
 
 ---
