@@ -1,6 +1,7 @@
 # Uya Okon 👋
 
 Desteric Software Engineer · Design Enthusiast · AI Agent Builder
+---
 [LinkedIn](https://www.linkedin.com/in/uya-o-a98a40104/) · [Twitter](#) · [Portfolio](#)
 
 ---
